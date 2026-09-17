@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="220" viewBox="0 0 120 220">
+  <g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M36 198 Q30 142 40 134 L80 134 Q90 142 84 198 Z" fill="#2f3f66"/>
+    <rect x="30" y="194" width="30" height="16" rx="8" fill="#e6e0d2"/>
+    <rect x="62" y="194" width="30" height="16" rx="8" fill="#e6e0d2"/>
+    <path d="M38 134 Q34 90 46 84 L74 84 Q86 90 82 134 Z" fill="#3d5182"/>
+    <rect x="46" y="88" width="28" height="12" rx="6" fill="#f2c9a0"/>
+    <g transform="rotate(-14 62 142)">
+      <rect x="16" y="135" width="72" height="15" rx="7" fill="#2b2b33"/>
+      <rect x="92" y="136" width="24" height="13" rx="6" fill="#6a5533"/>
+      <circle cx="90" cy="142" r="9" fill="#c8a24a"/>
+    </g>
+    <rect x="34" y="130" width="52" height="13" rx="6" fill="#c8a24a"/>
+    <rect x="72" y="98" width="20" height="44" rx="10" fill="#3d5182"/>
+    <circle cx="82" cy="146" r="11" fill="#f2c9a0"/>
+    <circle cx="58" cy="52" r="34" fill="#f2c9a0"/>
+    <path d="M24 46 Q28 14 58 14 Q88 14 92 46 Q76 32 58 32 Q40 32 24 46 Z" fill="#1f1f1f"/>
+    <path d="M52 14 Q58 0 66 10 Q72 18 62 20 Z" fill="#1f1f1f"/>
+    <line x1="70" y1="48" x2="70" y2="54"/>
+    <line x1="64" y1="36" x2="78" y2="40"/>
+  </g>
+</svg>

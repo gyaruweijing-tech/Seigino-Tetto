@@ -52,7 +52,7 @@
   - `src/main.js`（設定）
   - `src/scenes/TitleScene.js` / `GameScene.js` / `GameOverScene.js`
   - `assets/`（SVG）
-- 公開は GitHub Pages（mainブランチのルート）。スマホで開いてすぐ遊べる状態を保つ
+- 公開は Vercel（mainにプッシュすると自動で公開される）。ビルド設定は不要な静的サイトとして扱い、スマホで開いてすぐ遊べる状態を保つ
 - 縦持ちで開いたら「横にしてください」と表示
 
 ## 作業ルール

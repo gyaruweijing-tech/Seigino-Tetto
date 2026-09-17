@@ -29,7 +29,7 @@ class GameOverScene extends Phaser.Scene {
     }).setOrigin(0.5);
 
     if (isNew) {
-      const n = this.add.text(GAME_W / 2, 340, 'ハイスコア更新！', {
+      const n = this.add.text(GAME_W / 2, 352, 'ハイスコア更新！', {
         fontFamily: FONT, fontSize: '32px', color: '#ffd84a',
         stroke: '#1a1a1a', strokeThickness: 8
       }).setOrigin(0.5);

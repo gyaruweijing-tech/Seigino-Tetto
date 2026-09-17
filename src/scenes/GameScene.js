@@ -2,16 +2,16 @@
 const CFG = {
   RAMP_SEC: 100,          // この秒数かけて「開始時」から「最大」まで難しくなる
 
-  SPEED_START: 95,        // 歩く速さ px/秒
+  SPEED_START: 110,        // 歩く速さ px/秒
   SPEED_MAX: 200,
 
-  GAP_START: 380,         // 乗客どうしの間隔 px（小さいほど密）
-  GAP_MIN: 200,
+  GAP_START: 300,         // 乗客どうしの間隔 px（小さいほど密）
+  GAP_MIN: 170,
   GAP_JITTER: 70,         // 間隔のばらつき
 
-  TARGET_RATIO_START: 0.30, // 乗客のうち標的の割合
-  TARGET_RATIO_MAX: 0.45,
-  LATE_RATIO_START: 0.15,   // 標的のうち「途中で開く」割合
+  TARGET_RATIO_START: 0.40, // 乗客のうち標的の割合
+  TARGET_RATIO_MAX: 0.55,
+  LATE_RATIO_START: 0.20,   // 標的のうち「途中で開く」割合
   LATE_RATIO_MAX: 0.80,
 
   HERO_X: 225,            // 主人公の立ち位置

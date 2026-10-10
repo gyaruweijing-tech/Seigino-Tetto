@@ -1,0 +1,5 @@
+
+# AIの指示書・設定は手元だけ（公開しない）
+CLAUDE.md
+CLAUDE.local.md
+.claude/
